@@ -1,28 +1,28 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GBP22WFZ2SPJOTGJIN3D4SIEIHWCB26PMR2UWW7GLAFTMDYESH76VG45"
+"GA37TAUBNTGXRLB62TOPPSO7NJTY35RKHBVXLNDFZIIULXLM4IHJCA5Y"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="Nexus"
-ORG_URL="https://nexus.io/"
-ORG_DESCRIPTION="Nexus is a community-driven project with the common vision of a world inspired by innovation and responsible values, expansive technology, and the fundamental quality of connection being ubiquitous, free, and available to everyone. Our technology is designed to simplify lives, empower communities, and streamline business, while embodying the founding principles of Satoshi Nakamoto, the creator of Bitcoin."
+ORG_NAME="NFT Token"
+ORG_URL="https://stellarmint.io/tokens/"
+ORG_DESCRIPTION="A non-fungible token is a cryptographic asset that has the ability to be unique and unrepeatable. Thanks to blockchain technology, the properties of this type of token can be stored and, in this way, it becomes possible to certify both the originality of the asset and its ownership. This is achieved by means of a smart contract, which also opens up the possibility of trading it. This NFT Token is designed to simplify lives and is available to everyone."
 ORG_TWITTER="@NexusOfficial"
 ORG_LOGO="https://i.ibb.co/gy3QHfq/nexus.jpg"
-ORG_OFFICIAL_EMAIL="nexuscommunity@gmail.com"
+ORG_OFFICIAL_EMAIL="nfttoken@gmail.com"
 
 
 [[CURRENCIES]]
-code="NXS"
-issuer="GBP22WFZ2SPJOTGJIN3D4SIEIHWCB26PMR2UWW7GLAFTMDYESH76VG45"
+code="NFTT"
+issuer="GA37TAUBNTGXRLB62TOPPSO7NJTY35RKHBVXLNDFZIIULXLM4IHJCA5Y"
 anchor_asset="false"
-name="Nexus"
-desc="Nexus is a community-driven project with the common vision of a world inspired by innovation and responsible values, expansive technology, and the fundamental quality of connection being ubiquitous, free, and available to everyone. Our technology is designed to simplify lives, empower communities, and streamline business, while embodying the founding principles of Satoshi Nakamoto, the creator of Bitcoin."
+name="NFT Token"
+desc="A non-fungible token is a cryptographic asset that has the ability to be unique and unrepeatable. Thanks to blockchain technology, the properties of this type of token can be stored and, in this way, it becomes possible to certify both the originality of the asset and its ownership. This is achieved by means of a smart contract, which also opens up the possibility of trading it. This NFT Token is designed to simplify lives and is available to everyone."
 conditions=""
-image="https://i.ibb.co/gy3QHfq/nexus.jpg"
-fixed_number=10000000
-max_number=10000000
+image="https://i.ibb.co/WWyWHf6/nft.png"
+fixed_number=100000
+max_number=100000
 is_unlimited=false
-#NXS was issued using the open and inclusive Stellar blockchain network.
+#NFTT was issued using the open and inclusive Stellar blockchain network.
